@@ -16,12 +16,22 @@
     padding: 1rem 0 1rem 0;
 }
 
+.nav a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
 .nav li {
-    background-color: #121212;
+    /* background-color: #121212; */
+    background: linear-gradient(to right, #343434 50%, #121212 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    
     display: inline;
-    padding: 1rem 0.5rem 1rem 0.5rem;
+    padding: 1rem;
+    transition: all 0.2s ease;
 }
 
 .nav li:hover {
-    background-color: #343434;
+    background-position:left bottom;
 }
