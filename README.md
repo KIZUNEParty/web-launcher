@@ -1,4 +1,4 @@
-# th-web
+# web-launcher
 
 ## Build Setup
 
