@@ -6,10 +6,9 @@
 
 .nav ul {
     margin: 0;
-    padding: 0;
     width: 100%;
 
-    background-color: #121212;
+    background-color: #847798;
     color: whitesmoke;
 
     list-style-type: none;
@@ -19,17 +18,21 @@
 .nav a {
     color: whitesmoke;
     text-decoration: none;
+    transition: all 0.2s ease-out;
+}
+
+.nav a:hover {
+    color: #121212;
 }
 
 .nav li {
-    /* background-color: #121212; */
-    background: linear-gradient(to right, #343434 50%, #121212 50%);
+    background: linear-gradient(to right, #B0A8BE 50%, #847798 50%);
     background-size: 200% 100%;
     background-position: right bottom;
     
     display: inline;
     padding: 1rem;
-    transition: all 0.2s ease;
+    transition: all 0.2s ease-out;
 }
 
 .nav li:hover {

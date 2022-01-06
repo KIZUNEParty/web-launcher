@@ -1,6 +1,9 @@
 <template>
   <div id="app">
       <Nav />
+      <PDevider />
+
+      <div class="bg"></div>
   </div>
 </template>
 
