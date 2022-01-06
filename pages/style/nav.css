@@ -7,12 +7,21 @@
 .nav ul {
     margin: 0;
     padding: 0;
-    
     width: 100%;
-    color: #121212;
+
+    background-color: #121212;
+    color: whitesmoke;
+
     list-style-type: none;
+    padding: 1rem 0 1rem 0;
 }
 
 .nav li {
+    background-color: #121212;
     display: inline;
+    padding: 1rem 0.5rem 1rem 0.5rem;
+}
+
+.nav li:hover {
+    background-color: #343434;
 }

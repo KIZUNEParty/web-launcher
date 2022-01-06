@@ -1,15 +1,21 @@
 <template>
     <div class="nav">
         <ul>
-            <li>
-                Home
-            </li>
-            <li>
-                App
-            </li>
-            <li>
-                About
-            </li>
+            <a href="./">
+                <li>
+                    Home
+                </li>
+            </a>
+            <a href="./App">
+                <li>
+                    App
+                </li>
+            </a>
+            <a href="./About">
+                <li>
+                    About
+                </li>
+            </a>
         </ul>
     </div>
 </template>
