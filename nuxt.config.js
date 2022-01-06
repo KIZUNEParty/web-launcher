@@ -24,7 +24,7 @@ export default {
         crossorigin: 'anonymous'
       },
       {
-        href: 'https://fonts.googleapis.com/css2?family=Athiti&display=swap',
+        href: 'https://fonts.googleapis.com/css2?family=Itim&display=swap',
         rel: 'stylesheet'
       }
     ]
