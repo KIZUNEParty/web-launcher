@@ -6,9 +6,7 @@
         <PDevider />
 
         <div class="centerize">
-            <h1>
-                <VueClock :isMinute="true" :isSecond="true" />
-            </h1>
+            <Digiclock />
         </div>
     </div>
 </template>
@@ -20,12 +18,5 @@
 </style>
 
 <script>
-import Vue from 'vue'
-import VueClock from '@dangvanthanh/vue-clock'
 
-Vue.component('VueClock', VueClock)
-
-export default {
-  components: { VueClock },
-}
 </script>

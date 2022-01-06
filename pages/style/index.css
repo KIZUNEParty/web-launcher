@@ -1,0 +1,20 @@
+.clock h1{
+    font-family: 'Itim', cursive; 
+    width: 100%; 
+    height: 100%; 
+    
+    font-size: 80px !important;
+}
+
+.clock a {
+    color: #121212;
+    text-decoration: underline;
+}
+
+.clock a:hover {
+    text-decoration: none;
+}
+
+.clock span {
+    color: #343434;
+}
