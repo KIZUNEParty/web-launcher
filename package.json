@@ -12,7 +12,6 @@
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.15.1",
-    "dhl-track": "^1.0.0",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
