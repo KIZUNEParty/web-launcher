@@ -1,5 +1,16 @@
+.centerize {
+    width: 100%;
+}
+
 .dhl {
     background-color: whitesmoke;
     padding: 1.5rem 1rem 1.5rem 1rem;
     border-radius: 1rem;
+    width: 90%;
+    height: 50vh !important;
+}
+
+.dhl iframe {
+    width: 100%;
+    height: 100%;
 }

@@ -6,9 +6,13 @@
       <PDevider />
 
       <div class="centerize">
-        <div class="dhl">
-            
-        </div>
+        <center>
+          <div class="container">
+            <div class="dhl">
+              <iframe :src="'https://cdn2.000198.xyz/dhl/?track=' + $route.query.track" frameborder="0"></iframe>
+            </div>
+          </div>
+        </center>
       </div>
   </div>
 </template>
