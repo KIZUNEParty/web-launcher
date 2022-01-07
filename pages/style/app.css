@@ -27,6 +27,11 @@ center {
     border-radius: 1rem;
     width: 100px;
     height: auto;
+    transition: all 0.1s ease-out;
+}
+
+.parting .img img:hover {
+    transform: scale(1.2);
 }
 
 .col-3 {
