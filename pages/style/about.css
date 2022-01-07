@@ -1,0 +1,43 @@
+.centerize {
+    background-color: whitesmoke;
+    color: #121212;
+    border-radius: 1rem;
+}
+
+.about {
+    padding: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.about h1 {
+    padding-bottom: 1rem;
+    font-size: 40px;
+}
+
+.ab-text {
+    font-size: 24px;
+}
+
+.ab-text a {
+    color: #121212;
+    text-decoration: underline;
+}
+
+.ab-text a:hover {
+    text-decoration: none;
+}
+
+.copyright {
+    color: #121212;
+    font-size: 20px;
+}
+
+.copyright a {
+    color: #121212;
+    text-decoration: underline;
+}
+
+.copyright a:hover {
+    text-decoration: none;
+}
