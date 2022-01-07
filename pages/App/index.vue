@@ -53,7 +53,7 @@
                 </a>
               </div>
               <div class="col-3">
-                <a href="./DHLTrack">
+                <a href="../App/DHLTrack">
                   <imgDHL />
                   <span>
                     DHL Tracking
@@ -92,7 +92,7 @@
 </template>
 
 <style>
-@import url(./style/main.css);
-@import url(./style/nav.css);
-@import url(./style/app.css);
+@import url(../style/main.css);
+@import url(../style/nav.css);
+@import url(../style/app.css);
 </style>

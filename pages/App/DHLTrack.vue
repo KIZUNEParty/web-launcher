@@ -14,7 +14,13 @@
 </template>
 
 <style>
-@import url(./style/main.css);
-@import url(./style/nav.css);
-@import url(./style/about.css);
+@import url(../style/main.css);
+@import url(../style/nav.css);
+@import url(../style/dhl.css);
 </style>
+
+<script>
+export default {
+  
+}
+</script>
