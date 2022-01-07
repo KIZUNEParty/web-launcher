@@ -53,7 +53,7 @@
                 </a>
               </div>
               <div class="col-3">
-                <a href="./DHLTrack" target="_blank">
+                <a href="./DHLTrack">
                   <imgDHL />
                   <span>
                     DHL Tracking
