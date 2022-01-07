@@ -29,6 +29,14 @@
                 </span>
               </a>
             </div>
+            <div class="col-3">
+              <a href="https://animemusicquiz.com/" target="_blank">
+                <imgAMQ />
+                <span>
+                  AMQ
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </center>
