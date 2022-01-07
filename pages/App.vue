@@ -10,52 +10,54 @@
       <Nav />
       <PDevider />
 
-      <center>
-        <div class="parting">
-          <div class="row">
-            <div class="col-3">
-              <a href="https://detzz.in.th" target="_blank">
-                <imgHome />
-                <span>
-                  Home
-                </span>
-              </a>
-            </div>
-            <div class="col-3">
-              <a href="https://myanimelist.net/profile/detzz" target="_blank">
-                <imgMAL />
-                <span>
-                  MyAnimeList
-                </span>
-              </a>
-            </div>
-            <div class="col-3">
-              <a href="https://anilist.co/user/detzz" target="_blank">
-                <imgAni />
-                <span>
-                  Anilist
-                </span>
-              </a>
-            </div>
-            <div class="col-3">
-              <a href="https://animemusicquiz.com/" target="_blank">
-                <imgAMQ />
-                <span>
-                  AMQ
-                </span>
-              </a>
-            </div>
-            <div class="col-3">
-              <a href="https://detzz.in.th/Donate" target="_blank">
-                <imgHome />
-                <span>
-                  Donation
-                </span>
-              </a>
+      <div class="centerize">
+        <center>
+          <div class="parting">
+            <div class="row">
+              <div class="col-3">
+                <a href="https://detzz.in.th" target="_blank">
+                  <imgHome />
+                  <span>
+                    Home
+                  </span>
+                </a>
+              </div>
+              <div class="col-3">
+                <a href="https://myanimelist.net/profile/detzz" target="_blank">
+                  <imgMAL />
+                  <span>
+                    MyAnimeList
+                  </span>
+                </a>
+              </div>
+              <div class="col-3">
+                <a href="https://anilist.co/user/detzz" target="_blank">
+                  <imgAni />
+                  <span>
+                    Anilist
+                  </span>
+                </a>
+              </div>
+              <div class="col-3">
+                <a href="https://animemusicquiz.com/" target="_blank">
+                  <imgAMQ />
+                  <span>
+                    AMQ
+                  </span>
+                </a>
+              </div>
+              <div class="col-3">
+                <a href="https://detzz.in.th/Donate" target="_blank">
+                  <imgHome />
+                  <span>
+                    Donation
+                  </span>
+                </a>
+              </div>
             </div>
           </div>
-        </div>
-      </center>
+        </center>
+      </div>
   </div>
 </template>
 
