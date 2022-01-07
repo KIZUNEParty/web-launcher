@@ -21,6 +21,14 @@
                 </span>
               </a>
             </div>
+            <div class="col-3">
+              <a href="https://anilist.co/user/detzz" target="_blank">
+                <imgAni />
+                <span>
+                  Anilist
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </center>
