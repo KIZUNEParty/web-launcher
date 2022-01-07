@@ -25,3 +25,23 @@ body {
     transform: translate(-50%, -50%);
     text-align: center;
 }
+
+.ibox {
+    height: 100%;
+    width: 100%;
+}
+
+.searchForm, .searchForm input {
+    text-align: center;
+}
+
+.searchForm input {
+    width: 60%;
+    border-radius: 5px;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+.searchForm button {
+    width: 40%;
+}
