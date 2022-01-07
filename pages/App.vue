@@ -14,6 +14,14 @@
         <div class="parting">
           <div class="row">
             <div class="col-3">
+              <a href="https://detzz.in.th" target="_blank">
+                <imgHome />
+                <span>
+                  Home
+                </span>
+              </a>
+            </div>
+            <div class="col-3">
               <a href="https://myanimelist.net/profile/detzz" target="_blank">
                 <imgMAL />
                 <span>
