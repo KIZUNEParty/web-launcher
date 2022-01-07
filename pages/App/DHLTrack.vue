@@ -17,7 +17,7 @@
               <iframe :src="'https://cdn2.000198.xyz/dhl/?track=' + $route.query.track" frameborder="0"></iframe>
             </div>
             <div class="searchbox centerize" v-else>
-              <form action="./" class="searchForm">
+              <form action="./DHLTrack/" class="searchForm">
                 <input type="text" name="track" placeholder="Tracking No">
                 <br />
                 <br />
