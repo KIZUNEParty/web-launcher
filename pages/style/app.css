@@ -1,0 +1,22 @@
+.parting {
+    width: 90%;
+    background-color: whitesmoke;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.parting a {
+    color: #121212;
+    text-decoration: underline;
+}
+
+.parting a:hover {
+    color: #343434;
+    text-decoration: none;
+}
+
+.parting .img img {
+    border-radius: 1rem;
+    width: 100px;
+    height: auto;
+}
