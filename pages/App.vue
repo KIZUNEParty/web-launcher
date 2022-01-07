@@ -45,6 +45,14 @@
                 </span>
               </a>
             </div>
+            <div class="col-3">
+              <a href="https://detzz.in.th/Donate" target="_blank">
+                <imgHome />
+                <span>
+                  Donation
+                </span>
+              </a>
+            </div>
           </div>
         </div>
       </center>
