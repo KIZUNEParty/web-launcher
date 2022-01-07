@@ -45,6 +45,22 @@
                 </a>
               </div>
               <div class="col-3">
+                <a href="https://fb.com/detzz.in.th" target="_blank">
+                  <imgFB />
+                  <span>
+                    Facebook
+                  </span>
+                </a>
+              </div>
+              <div class="col-3">
+                <a href="https://github.com/dethMastery" target="_blank">
+                  <imgGithub />
+                  <span>
+                    Github
+                  </span>
+                </a>
+              </div>
+              <div class="col-3">
                 <a href="https://blog.detzz.in.th" target="_blank">
                   <imgHome />
                   <span>
